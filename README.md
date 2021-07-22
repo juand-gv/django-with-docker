@@ -8,8 +8,7 @@
   <h3 align="center">Docker + Django Project</h3>
 
   <p align="center">
-    A Django + Docker project made in order to learn about the proper Docker usage. 
-    The idea is to fork and work on independent django apps.
+    A Django + Docker project in order to learn abour django restframework
     Tutorial: https://dev.to/gautamankul/dickerzing-a-python-django-web-app-on-ubuntu-21-04-54o7 by Gautam Ankul.
   </p>
 </p>
