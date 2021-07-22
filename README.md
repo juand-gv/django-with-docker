@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="project-images/django-docker1.jpg" alt="Logo" width="300" height="200">
+    <img src="project-images/Python-y-django.jpg" alt="Logo" width="350" height="200">
   </a>
 
   <h3 align="center">Docker + Django Project</h3>
